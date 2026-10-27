@@ -1,0 +1,12 @@
+chain.gr
+check
+check.cpp
+cyc.gr
+gen
+gen.cpp
+rnd.gr
+rnd.out
+*.out
+solution
+solution_dbg
+*.txt
