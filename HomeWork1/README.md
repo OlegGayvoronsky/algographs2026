@@ -19,3 +19,7 @@ g++ -O2 -std=c++17 -o solution solution.cpp
 ```
 ./solution < input.gr > output.txt
 ```
+
+## Часть 2
+
+Файлы hard.gr и hard.ans - граф из второй части и ответ для него.
